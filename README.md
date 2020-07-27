@@ -49,17 +49,17 @@ This includes, but isn’t limited to: bullying, intimidation, vulgar language, 
 
 
 ## Our Expectations
-* If you’re here to get help, make it as easy as possible for others to help you.
+* **If you’re here to get help, make it as easy as possible for others to help you.**
 Follow our [guidelines](/asking/good-questions.md) and remember that our community is made possible by volunteers.
 
 
-* If you’re here to help others, be patient and welcoming.
+* **If you’re here to help others, be patient and welcoming.**
 Learning how to participate in our community can be hard. Offer support if you see someone struggling or otherwise in need of help.
 
-* Be clear and constructive when giving feedback, and be open when receiving it.
+* **Be clear and constructive when giving feedback, and be open when receiving it.**
 Edits, comments, and suggestions are healthy parts of our community.
 
-* Be inclusive and respectful.
+* **Be inclusive and respectful.**
 Avoid sarcasm and be careful with jokes — tone is hard to decipher online. Prefer gender-neutral language when uncertain. If a situation makes it hard to be friendly, stop participating and move on.
 
 ## Examples
