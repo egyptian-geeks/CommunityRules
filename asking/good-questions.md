@@ -5,7 +5,6 @@ We’d love to help you. To improve your chances of getting an answer, here are 
 ...and keep track of what you find. Even if you don't find a useful answer elsewhere on the site, including links to related questions that haven't helped can help others in understanding how your question is different from the rest.
 
 ### Write a title that summarizes the specific problem
-
 The title is the first thing potential answerers will see, and if your title isn't interesting, they won't read the rest. So make it count:
 
 * **Pretend you're talking to a busy colleague** and have to sum up your entire question in one sentence: what details can you include that will help someone identify and solve your problem? Include any error messages, key APIs, or unusual circumstances that make your question different from similar questions already on the site.
