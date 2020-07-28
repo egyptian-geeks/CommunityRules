@@ -30,8 +30,8 @@ Whether you’ve come to ask questions or to generously share what you know, joi
 
 1. Hate
 1. Spam.
-2. Duplicated content.
-3. Posts not related to group topic.
+1. Duplicated content.
+1. Posts not related to group topic.
 
 ## Unacceptable Behavior
 
