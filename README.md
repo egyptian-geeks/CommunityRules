@@ -25,6 +25,7 @@ Whether you’ve come to ask questions or to generously share what you know, joi
 6. Report any spam you find.
 7. This is a "Safe For Work Group" please don't post a NSFW content.
 8. Google before asking any question.
+9. Irrelevant comments will be deleted immediately (Any concerns can be addressed by communicating with Admins and moderators)
 
 ## Things We Don't Tolerate!
 
